@@ -5,4 +5,5 @@
 並且利用MouseClick建立觀眾與作品的互動。
 
 視覺畫面:https://editor.p5js.org/evevvliee/sketches/vSiQF1Eu0
+
 點擊p5js畫面，每次重整後，會隨機從5種色調和3種波形中生成海浪的意象。
